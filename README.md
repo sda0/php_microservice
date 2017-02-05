@@ -35,3 +35,13 @@
     http://localhost:8000/book/1
     http://localhost:8000/book/2
     
+Основная логика приложения в файлах
+
+    https://github.com/sda0/php_microservice/blob/master/includes/Sda/BooksLibrary.php
+    https://github.com/sda0/php_microservice/blob/master/includes/Sda/Book.php
+    https://github.com/sda0/php_microservice/blob/master/includes/Sda/Queue.php
+    https://github.com/sda0/php_microservice/blob/master/includes/Sda/SingletonTrait.php
+    https://github.com/sda0/php_microservice/blob/master/routes/web.php
+    https://github.com/sda0/php_microservice/blob/master/generator.php
+    https://github.com/sda0/php_microservice/blob/master/watcher.php
+    https://github.com/sda0/php_microservice/blob/master/worker.php
