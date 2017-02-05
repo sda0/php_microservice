@@ -16,7 +16,7 @@
         $process->start($timer->getLoop());
   
         echo "$counter.txt wrote".PHP_EOL;
-        if(++$counter>2) die();
+        if(++$counter>60) die();
     });
 
 
