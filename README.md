@@ -27,7 +27,7 @@
 
     $ php -f generator.php
     
-Если я ничего не забыл то  запросы вида:
+Если я ничего не забыл то  запросы ниже дадут статистику:
 
     http://localhost:8000/words
     http://localhost:8000/books/list
